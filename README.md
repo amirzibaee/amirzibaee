@@ -2,13 +2,8 @@
 <div align="center" style="font-family: 'Open Sans', Arial, sans-serif;">
   
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:700,400&display=swap" rel="stylesheet">
-  
-  <h1 style="font-family: 'Open Sans', Arial, sans-serif; font-size: 2.5rem; font-weight: 700; margin-bottom: 0.5rem; color: #203a43; letter-spacing: 1px;">
-    Hi, I'm Amirreza Zibaee
-  </h1>
-  <a href="https://amirzibaee.com" target="_blank">
-    <img src="https://amirzibaee.com/images/profile.jpg" width="160" height="160" style="border-radius:50%; object-fit:cover; border: 4px solid #00C2CB; box-shadow: 0 4px 24px rgba(32,58,67,0.15); margin-bottom: 0.5rem;" alt="Amirreza Zibaee"/>
-  </a>
+
+
   <h3 style="font-family: 'Open Sans', Arial, sans-serif; color: #2c5364; font-weight: 400; margin-top: 0.5rem;">🚀 Backend & Full-Stack Developer | Web Technologies Enthusiast</h3>
   <p style="font-family: 'Open Sans', Arial, sans-serif; color: #555;">10+ years of experience building scalable, efficient, and modern web solutions</p>
   <div style="margin: 1rem 0;">
