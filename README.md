@@ -7,9 +7,6 @@
   <h3 style="font-family: 'Open Sans', Arial, sans-serif; color: #2c5364; font-weight: 400; margin-top: 0.5rem;">🚀 Backend & Full-Stack Developer | Web Technologies Enthusiast</h3>
   <p style="font-family: 'Open Sans', Arial, sans-serif; color: #555;">10+ years of experience building scalable, efficient, and modern web solutions</p>
   <div style="margin: 1rem 0;">
-    <a href="https://www.linkedin.com/in/amir-zibaee/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
     <a href="https://amirzibaee.com">
       <img src="https://img.shields.io/badge/Website-amirzibaee.com-2c3e50?style=for-the-badge&logo=firefox&logoColor=white" />
     </a>
